@@ -1,4 +1,7 @@
-# 💫 About Me:
+# ![image](https://user-images.githubusercontent.com/108292217/233567574-4d9a087c-b19c-4732-b0e4-17819b16b8da.png)
+
+
+💫 About Me:
 Hello, I'm Tomasz. I'm a Junior Software Tester and this is my modest portfolio, which I started to create at the beginning of my tester journey. As time goes on, I will be adding new documents to show my commitment and determination to start <br>a career as a manual tester.
 
 
